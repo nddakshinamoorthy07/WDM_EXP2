@@ -1,5 +1,8 @@
+### Name: DAKSHINA MOORTHY N D
+### Reg no: 212224230049
+
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
-### DATE: 
+### DATE: 24.07.2026
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
 In data mining, association rule learning is a popular and well researched method for discovering interesting
@@ -42,6 +45,7 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+<img width="1247" height="925" alt="image" src="https://github.com/user-attachments/assets/4b97daf4-48a2-4adb-b0ca-ba0aafccb635" />
 
 
 ### Procedure for Association Rules:
@@ -53,5 +57,9 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+<img width="1246" height="938" alt="Screenshot 2026-07-22 112045" src="https://github.com/user-attachments/assets/aaf596a1-c05b-4d46-8272-895027c5df53" />
+<img width="1245" height="931" alt="Screenshot 2026-07-22 112054" src="https://github.com/user-attachments/assets/982c060c-759e-4b33-b477-b1d25057d433" />
+
 
 ### RESULT: 
+Thus, association rules were generated for employee dataset using Apriori algorithm.
